@@ -1,0 +1,131 @@
+			
+		
+u
+d
+u
+d
+d
+d
+u
+u
+u
+u
+u
+u
+
+
+u
+d
+m 50
+r 50
+m 50
+r 50
+m 50
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+m 5
+r 5
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+r 1
+m 20
+u
+m 20
+d
+m 20
+r 30
+m 70
